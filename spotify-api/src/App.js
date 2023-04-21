@@ -4,7 +4,7 @@ import axios from 'axios';
 
 function App() {
   const CLIENT_ID = "ffa87e903b664938abb4eff44709bd2f"
-  const REDIRECT_URI = "http://localhost:3000/"
+  const REDIRECT_URI = "https://javieracarranza.github.io/"
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
   const RESPONSE_TYPE = "token"
 
